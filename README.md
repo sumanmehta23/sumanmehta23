@@ -100,17 +100,24 @@ echo "Turning ideas into real-world solutions since 2014.";
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanmehta23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmehta23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumanmehta23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmehta23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sumanmehta23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=sumanmehta23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanmehta23&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumanmehta23&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
+</div>
+
+<div align="center">
+  <br/>
+  
+  **📈 Contributions** | **🐙 Repositories** | **⭐ Stars** | **👥 Followers** | **📚 Learning**
+  :---:|:---:|:---:|:---:|:---:
+  ![](https://img.shields.io/badge/Active-365%20Days-brightgreen?style=flat) | ![](https://img.shields.io/badge/15%2B-Open%20Source-blue?style=flat) | ![](https://img.shields.io/badge/Growing-⭐-yellow?style=flat) | ![](https://img.shields.io/badge/500%2B-Community-orange?style=flat) | ![](https://img.shields.io/badge/Never%20Stop-Learning-purple?style=flat)
 </div>
 
 ---
